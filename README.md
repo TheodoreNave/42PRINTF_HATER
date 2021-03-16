@@ -4,7 +4,7 @@ Make yur own tests blablabla..
 
 1 - cd to the folder with your fonctions
 
-2 - git clone https://github.com/TheodoreNave/ft_printf_hater.git
+2 - git clone https://github.com/TheodoreNave/42PRINTF_HATER.git
 
 3 - cd 42PRINTF_HATER
 
