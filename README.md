@@ -19,5 +19,3 @@ WARNING if you are working on Linux : Some undefined behaviours are present in t
 
 \
 <br>
-Remerciements :
-addubois pour la troll face et hellokitty
